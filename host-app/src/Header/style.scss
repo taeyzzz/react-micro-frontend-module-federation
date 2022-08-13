@@ -1,0 +1,12 @@
+.header-container{
+  display: flex;
+  width: 100%;
+  padding: 16px 20px;
+  background: red;
+  align-items: center;
+  .title-container{
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+}
